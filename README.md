@@ -50,12 +50,6 @@ Enter PIN: 1234
 5. Exit
 ```
 
-## ✍️ Author
-
-- **Alisha Vyas** – B.Tech CSE Student  
-- Email: [your-email@example.com]  
-- GitHub: [your-github-profile]
-
 ## 📝 License
 
 This project is open source and free to use for learning purposes.
